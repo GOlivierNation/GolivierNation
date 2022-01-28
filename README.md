@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://goliviernation.og)**
 - 📫 How to reach me **ogasominali@gmail.com**
-- ⚡ Fun fact **I play games and I like learning.**
+- ⚡ I like 👨‍💻 : Programming | 🎮 : gaming | ☕: Coffee | 🕺: Travel
 
 ## 🚀 Languages and Tools:
 
