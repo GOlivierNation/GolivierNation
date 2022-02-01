@@ -8,7 +8,7 @@
 - 🔭 I’m available for work
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://goliviernation.og)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://goliviernation.github.io/my-cv-resume-portfolio/)**
 - 📫 How to reach me **ogasominali@gmail.com**
 - ⚡ I like 👨‍💻 : Programming | 🎮 : gaming | ☕: Coffee | 🕺: Travel
 
