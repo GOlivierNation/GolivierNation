@@ -70,9 +70,9 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/olivier-gasominali-866962108/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://twitter.com/Golivier_Nation"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/golivier_nation/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC3kpYXs4Gl64n4n8IuGV77g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
