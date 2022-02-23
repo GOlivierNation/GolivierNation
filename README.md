@@ -1,4 +1,4 @@
-<img align="right" height="250" width="300" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif" /> </a>
+<img align="right" height="250" width="300" src="https://user-images.githubusercontent.com/61317250/127886709-f76743c3-6258-4f05-a7b3-4996493ef0ee.png" /> </a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Olivier</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
