@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://goliviernation.github.io/my-portfolio/)**
 - 📫 How to reach me **ogasominali@gmail.com**
+- 👯 Open to new job opportunities.
 - ⚡ I like 👨‍💻 : Programming | 🎮 : gaming | ☕: Coffee | 🕺: Travel
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 <!-- START NEW SECTION -->
