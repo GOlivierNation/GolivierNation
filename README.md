@@ -32,6 +32,12 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=GOlivierNation&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/GOlivierNation)
 <hr>
 
+### Certificates & Licenses 🥇
+<p align="left" width="100">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/b356d964-e2b8-4abf-87d2-bf49a222368e" target="blank"><img src="./images/html-css-badge.png" width="80"></a> <a href="https://www.credential.net/74d2dfab-31da-4e92-9dfd-550166a057a7#gs.326wm8" target="blank"><img src="./images/javascript.png" width="80"></a> 
+</p>
+<hr>
+
 <!-- START NEW SECTION -->
 <p align="center">
  <h2 align="center">My Github Stats</h2>
