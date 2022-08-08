@@ -38,13 +38,14 @@
 </p>
 <hr>
 
+
 <!-- START NEW SECTION -->
 <p align="center">
  <h2 align="center">My Github Stats</h2>
 
-|My github statistics|My languages|Streaks|
-|-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=GOlivierNation&show_icons=true&theme=dark&hide_title=true)](https://github.com/GOlivierNation)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GOlivierNation&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/GOlivierNation)|![GOlivierNation](https://github-readme-streak-stats.herokuapp.com/?user=GOlivierNation&theme=dark)
+|My github statistics|My languages|Streaks|Weekly Coding|
+|-|-|-|-|
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=GOlivierNation&show_icons=true&theme=dark&hide_title=true)](https://github.com/GOlivierNation)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GOlivierNation&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/GOlivierNation)|![GOlivierNation](https://github-readme-streak-stats.herokuapp.com/?user=GOlivierNation&theme=dark)|[![Olivier's worktime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ha_manel&theme=dark)](https://github.com/GOlivierNation/github-readme-stats)
 <hr>
 
 <!-- START NEW SECTION -->
