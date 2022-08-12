@@ -1,11 +1,14 @@
 <img align="right" height="250" width="300" src="https://user-images.githubusercontent.com/61317250/127886709-f76743c3-6258-4f05-a7b3-4996493ef0ee.png" /> </a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Olivier</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile!;Hi+I+am+Olivier!;Nice+To+Meet+You!;I+am+Available+To+Work!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+<hr>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m available for work
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Ruby On Rails.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://goliviernation.github.io/my-portfolio/)**
 - 📫 How to reach me **ogasominali@gmail.com**
