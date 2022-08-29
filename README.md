@@ -10,7 +10,7 @@
 - 🔭 I’m available for work
 - 🌱 I’m currently learning **Ruby On Rails.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://goliviernation.github.io/my-portfolio/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://goliviernation.github.io/portfoliomobo/)**
 - 📫 How to reach me **ogasominali@gmail.com**
 - 👯 Open to new job opportunities.
 - ⚡ I like 👨‍💻 : Programming | 🎮 : gaming | ☕: Coffee | 🕺: Travel
