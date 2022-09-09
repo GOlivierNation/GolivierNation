@@ -17,15 +17,20 @@
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 <!-- START NEW SECTION -->
  <!-- CONNECT WITH ME LINKS -->
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3><p align="left">
+<hr>
 
-<a href = "https://www.linkedin.com/in/olivier-gasominali-866962108/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Golivier_Nation"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/golivier_nation/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC3kpYXs4Gl64n4n8IuGV77g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "ogasominali@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+<!-- <h2 align="left"><b>Connect with me</b> 📫</h2> -->
+<h2 align="left">📫<b>You can reach me at :</b></h2>
 
-</p>
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/oliviergasominali/)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Golivier_Nation)
+[![AngelList](https://img.shields.io/badge/--AngelList?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/olivier-gasominali)
+[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](https://mail.google.com/mail/&ogbl)
+<a target="_blank" 
+   href="https://wa.me/+250787269567"><img 
+src="https://img.shields.io/badge/--whatsApp?label=WhatsApp&logo=WhatsApp&style=social"></img>
+</a>
+[![GitHub](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/GOlivierNation)
     
 <!-- START NEW SECTION -->
 <p align="center">
