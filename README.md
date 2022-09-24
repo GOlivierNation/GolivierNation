@@ -44,6 +44,7 @@ src="https://img.shields.io/badge/--whatsApp?label=WhatsApp&logo=WhatsApp&style=
 <p align="left" width="100">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/b356d964-e2b8-4abf-87d2-bf49a222368e" target="blank"><img src="./images/html-css-badge.png" width="80"></a> <a href="https://www.credential.net/74d2dfab-31da-4e92-9dfd-550166a057a7#gs.326wm8" target="blank"><img src="./images/javascript.png" width="80"></a> <a href="https://www.credential.net/44b477b1-b9ba-4798-a18a-629f3b4cf830#gs.5qauvt" target="blank"><img src="./images/reactredux.png" width="80"></a>
   <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56574710" target="blank"><img src="./images/ruby.png" width="80"></a>
+  <a href="https://www.credential.net/30858b08-56fc-498d-a0ef-ad69a993baac" target="blank"><img src="./images/ror.png" width="80"></a>
 </p>
 <hr>
 
